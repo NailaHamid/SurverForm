@@ -42,6 +42,12 @@ p {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
+form{
+    border: 1px solid black;
+}
+.survey-form{
+    background-color: #6291c3;
+}
 
 label {
   display: flex;
